@@ -1,6 +1,6 @@
 # Buddy
 
-Buddy is an app that aims to help people passing through difficult situations, like crisis, depression, sadness, lost of a loved one or with suicidal thoughts. It shows daily notifications on the user's phone with helping, inspiring, encouraging, caring quotes and tips to help and make the person feel better. It also shows a list of contacts like phone numbers, websites, emails, of helping lines and institutions, if the user wants to talk with somebody and/or asking for more help.
+Buddy is an app that aims to help people passing through difficult situations, like crisis, depression, sadness, loss of a loved one or with suicidal thoughts. It shows daily notifications on the user's phone with helping, inspiring, encouraging, caring quotes and tips to help and make the person feel better. It also shows a list of contacts like phone numbers, websites, emails, of helping lines and institutions, if the user wants to talk with somebody and/or asking for more help.
 
 ## Getting Started
 
