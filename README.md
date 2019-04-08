@@ -33,11 +33,7 @@ For the sake of this project, there's a [data.json](assets/data.json) file in th
 
 ## Screenshots
 
-<img src="https://github.com/cetorres/buddy/raw/master/screenshot1.png" width="300" />
-<img src="https://github.com/cetorres/buddy/raw/master/screenshot2.png" width="300" />
-<img src="https://github.com/cetorres/buddy/raw/master/screenshot3.png" width="300" />
-<img src="https://github.com/cetorres/buddy/raw/master/screenshot4.png" width="300" />
-<img src="https://github.com/cetorres/buddy/raw/master/screenshot5.png" width="300" />
+<img src="https://github.com/cetorres/buddy/raw/master/screenshot1.png" width="300" /><img src="https://github.com/cetorres/buddy/raw/master/screenshot2.png" width="300" /><img src="https://github.com/cetorres/buddy/raw/master/screenshot3.png" width="300" /><img src="https://github.com/cetorres/buddy/raw/master/screenshot4.png" width="300" /><img src="https://github.com/cetorres/buddy/raw/master/screenshot5.png" width="300" />
 
 ## Design
 
